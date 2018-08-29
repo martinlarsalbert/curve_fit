@@ -18,6 +18,7 @@ nbconvert==4.1.0
 nbformat==4.0.1
 notebook==4.0.5
 numpy==1.13.3+mkl
+pandas==0.23.4
 pickleshare==0.7.4
 Pygments==2.0.2
 pyparsing==2.0.3
